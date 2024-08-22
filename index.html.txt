@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Earn Nutrition - Claudia Alicia Espíndola Soria</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Earn Nutrition</h1>
+        <h2>Claudia Alicia Espíndola Soria - Nutrióloga Certificada</h2>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#about">Sobre Mí</a></li>
+            <li><a href="#services">Servicios</a></li>
+            <li><a href="#contact">Contacto</a></li>
+        </ul>
+    </nav>
+    <section id="about">
+        <h3>Sobre Mí</h3>
+        <p>Soy Claudia Alicia Espíndola Soria, nutrióloga certificada por la UAM. Con más de 10 años de experiencia, me especializo en brindar planes de alimentación personalizados, enfocados en el control de peso, prevención y manejo de enfermedades como diabetes, cáncer, y trastornos lipídicos.</p>
+        <p>Además, utilizo ayuda de tecnologías avanzadas como el scanner de bioresonancia magnética y enfoques de nutrición ortomolecular para ofrecer soluciones integrales a mis pacientes.</p>
+    </section>
+    <section id="services">
+        <h3>Servicios</h3>
+        <ul>
+            <li>Control de peso</li>
+            <li>Scanner de bioresonancia magnética</li>
+            <li>Nutrición ortomolecular</li>
+            <li>Manejo de diabetes, cáncer e hiperlipidemias</li>
+            <li>Planes personalizados de alimentación</li>
+        </ul>
+    </section>
+    <section id="contact">
+        <h3>Contacto</h3>
+        <p>Para agendar una cita, por favor contacta al teléfono <strong>5549922628</strong>.</p>
+        <p>Consultorio: Av. Javier Rojo Gómez 19 bis, San Miguel, Iztapalapa, 09360 Ciudad de México, CDMX.</p>
+        <p>Correo electrónico: <a href="mailto:tunutriologa.earnnutrition@yahoo.com.mx">tunutriologa.earnnutrition@yahoo.com.mx</a></p>
+    </section>
+    <footer>
+        <p>&copy; 2024 Earn Nutrition - Todos los derechos reservados.</p>
+    </footer>
+    <script src="scripts.js"></script>
+</body>
+</html>
